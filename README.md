@@ -1,6 +1,6 @@
 ## app linking quickstart
 
-English | [中文](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Guides/agc-applinking-introduction-0000001054143215)
+English | [中文](https://github.com/AppGalleryConnect/agc-applinking-demo-iOS/blob/master/README_ZH.md)
 
 ## Table of Contents
 
